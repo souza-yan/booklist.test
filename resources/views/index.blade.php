@@ -1,5 +1,4 @@
 <x-layout>
-
     <!-- Seção Hero -->
     <div class="bg-primary text-white py-5 text-center">
         <div class="container">
